@@ -1,0 +1,5 @@
+# Visual Studio Code
+.vscode/
+# project
+#build_nix/*
+#build_win/*
